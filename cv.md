@@ -79,9 +79,9 @@ _12/2021_
 
 - Preprocessors (Sсss)
 
-- Adobe Photoshop
+- Adobe Photoshop/Figma
 
-- Figma
+- Unit Testing
 
 - Git
 
